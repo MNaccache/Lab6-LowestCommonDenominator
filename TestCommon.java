@@ -1,4 +1,4 @@
-//This program calculates the lowest common denomonator for two fractions
+//M NACCACHE: This program calculates the lowest common denomonator for two fractions
 
 public class TestCommon {
     
